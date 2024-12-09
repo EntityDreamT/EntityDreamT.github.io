@@ -25,9 +25,9 @@ header {
 } 
 
 .img {
-    width: 170px;
+    width: 150px;
     height: 148px;
-    margin-left: 2%;
+    margin-left: 0%;
 }
 
 .titulo {
@@ -80,8 +80,8 @@ header {
 .banner2 {
     background-color: rgb(255, 255, 255);
     padding-left: 0%;
-    width: 900px;
-    height: 1320px;
+    width: 830px;
+    height: 1500px;
     display: flex;
     flex-direction: column;
     border-radius: 3%;
@@ -89,45 +89,54 @@ header {
 }
 
 .banner2-a1 {
-    width: 900px;
+    background-color: darkgrey;
+    width: 830px;
     height: 220px;
     display: flex;
 }
 
 .banner2-a2 {
-    width: 900px;
-    height: 240px;
+    background-color: cyan;
+    width: 830px;
+    height: 260px;
 }
 
 .banner2-a3 {
+    background-color: aquamarine;
     height: 125px;
+    margin-top: 5%;
 }
 
 .banner2-a4 {
+    background-color: #8b5252;
     height: 211px;
     display: flex;
     flex-direction: row;
 }
 
 .banner2-a5 {
-    height: 70px;
+    background-color: brown;
+    height: 90px;
 }
 
 .banner2-a6 {
-    height: 500px;
+    background-color: chocolate;
+    height: 540px;
+    margin-top: 5%;
 }
 
 .banner2-a61 {
+    background-color: bisque;
     display: flex;
-    height: 179.3px;
+    height: 190px;
 }
 
 .banner2-b1 {
-    width: 450px;
+    width: 415px;
 }
 
 .banner2-b2 {
-    width: 450px;
+    width: 415px;
 
 }
 
@@ -135,7 +144,7 @@ header {
     height:25px;
     margin-top: 10px;
     display: flex;
-    width: 841px;
+    width: 830px;
 }
 
 .banner2-b4 {
@@ -309,7 +318,7 @@ header {
 }
 
 .banner2-c1 {
-    width: 458.5px;
+    width: 415px;
     justify-content: center;
     display: flex;
     height: 40px;
@@ -322,7 +331,7 @@ header {
 }
 
 .banner2-c2 {
-    width: 458.5px;
+    width: 415px;
     display: flex;
     justify-content: center;
     height: 40px;
@@ -346,7 +355,7 @@ header {
     display: flex;
     align-items: center;
     margin-left: 20%;
-    width: 250px;
+    width: 230px;
 }
 
 .banner2-d3 {
@@ -356,7 +365,7 @@ header {
     display: flex;
     align-items: center;
     margin-left: 20%;
-    width: 250px;
+    width: 230px;
 }
 
 .inv {
@@ -449,17 +458,17 @@ header {
     font-weight: 500;
     border-radius: 5%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    width: 222px;
+    width: 200px;
 }
 
 .td {
-    width: 212px;
+    width: 196px;
     border-radius: 5%;
     height: 30.4px;
 }
 
 .tdo {
-    width: 887px;
+    width: 817px;
     height: 76px;
     border-radius: 5%;
     outline: 2px solid black;
@@ -491,7 +500,7 @@ header {
     border-radius: 5%;
     height: 9px;
     display: flex;
-    width: 870px;
+    width: 803px;
     justify-content: center;
     align-items: center;
 }
@@ -587,14 +596,14 @@ header {
 
 .img2 {
     height: 150px;
-    width: 215px;
+    width: 200px;
     margin-left: 2%;
 }
 
 .img3 {
     margin-top: 1%;
     height: 160px;
-    width: 260px;
+    width: 217px;
 }
 
 .box {
@@ -610,7 +619,8 @@ header {
     display: flex;
     justify-content: right;
     outline: 3px solid black;
-    margin-left: 3%;
+    margin-left: 2%;
+    margin-top: 5%;
 }
 
 .box2 {
@@ -620,7 +630,8 @@ header {
     display: flex;
     justify-content: right;
     outline: 3px solid black;
-    margin-left: 6.5%;
+    margin-left: 4.5%;
+    margin-top: 5%;
 }
 
 .box3 {
@@ -630,7 +641,8 @@ header {
     display: flex;
     justify-content: right;
     outline: 3px solid black;
-    margin-left: 6.5%;
+    margin-left: 4.3%;
+    margin-top: 5%;
 }
 
 .box4 {
@@ -640,12 +652,13 @@ header {
     display: flex;
     justify-content: right;
     outline: 3px solid black;
-    margin-left: 6%;
+    margin-left: 4.4%;
+    margin-top: 5%;
 }
 
 .checkbox1 {
     height: 237px;
-    width: 220px;
+    width: 200px;
     margin-right: 0%;
 }
 
@@ -669,7 +682,7 @@ header {
 
 .text10 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    margin-left: 32%;
+    margin-left: 23%;
     margin-bottom: 0%;
 }
 
